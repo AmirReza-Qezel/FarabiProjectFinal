@@ -1,1 +1,1 @@
-# FarabiProjectFinal
+# FarabiStudentsManagmentStudio
